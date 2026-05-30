@@ -1,21 +1,19 @@
 ## Hi, my name is Jorrit Vander Mynsbrugge
 
-I'm an engineer with master's degrees in electrical engineering and applied informatics. My interests span data engineering, software development, and energy systems, with a focus on building reliable and maintainable solutions.
-
-Outside of work, I enjoy building tools to manage and automate my own data ecosystem, including photography workflows, security camera data, investment tracking, backups, and home server infrastructure.
-
----
+I'm an engineer with master's degrees in electrical engineering and applied informatics. I build software and data solutions for a utility provider, with a strong focus on reliability, maintainability, and reproducibility.
 
 ### 🛠️ Currently favored stack
-Python · SQL · Azure · Databricks · Docker · Git  
+- Python · SQL · Azure · Databricks · Docker · Git  
 
 ### 🔭 Also experienced with
-R · Java · Scala · Clojure · JavaScript · Scheme · VBA · MATLAB · C · C++ · Erlang · Bash · Power BI · Spark (PySpark) · Airflow (basic)
+- R · Java · Scala · Clojure · JavaScript · C · C++ · Erlang · OpenCL · Scheme · VBA · Power BI · Spark (PySpark) · MATLAB
 
----
-
-### ⚙️ Interests
+### ⚙️ Professional interests
 - Energy systems & electricity markets
 - Data engineering & distributed systems
 - Performance, scalability, and system design tradeoffs
-- Self-hosting, home servers, and automation
+
+### 🧩 Personal interests
+- Digital life automation (photography, security cameras, backups, finance, ...)
+- DIY home improvement
+- Mountain biking 
